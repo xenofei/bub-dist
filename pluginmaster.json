@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "Bibi",
+    "Name": "Bibi's Update Buddy",
+    "InternalName": "BibisUpdateBuddy",
+    "Punchline": "Staggered, safe plugin updates.",
+    "Description": "Lists every plugin with an available update and installs them one at a time, with safety gates and a debug log. Command: /bub",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xenofei/BibisUpdateBuddy",
+    "IconUrl": "https://raw.githubusercontent.com/xenofei/bub-dist/main/plugins/BibisUpdateBuddy/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xenofei/bub-dist/main/plugins/BibisUpdateBuddy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xenofei/bub-dist/main/plugins/BibisUpdateBuddy/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xenofei/bub-dist/main/plugins/BibisUpdateBuddy/latest.zip",
+    "Tags": [
+      "utility",
+      "updates",
+      "plugins"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1790530153
+  }
+]
